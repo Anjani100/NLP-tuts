@@ -38,6 +38,7 @@ Running this piece of code will pop up a program where you will need to select t
 * **Lemmatizing:** It is a similar operation to Stemming, the only difference being that stemming can often create non-existing words whereas lemmas are actual words.
 * **Wordnet:** Wordnet is a lexical database for the English language, which was created by Princeton, and is part of the NLTK corpus. You can use WordNet alongside the NLTK module to find the meanings of words, synonyms, antonyms, and more.
 * **Wu and Palmer Method:** It is an algorithm to determine how similar 2 words are to each other.
+* **Pickle:** It is a python library package that is used to save huge files in bytes, specially classifier models (in our case).
 
 ## Projects
 
