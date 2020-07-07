@@ -47,3 +47,4 @@ Running this piece of code will pop up a program where you will need to select t
 The NLTK corpus *movie_reviews* data set has the reviews, and they are labeled already as positive or negative (1000 reviews each).
 For the first Machine Learning algorithm, we're going to go with **Naive-Bayes algorithm**.
 * **Naive-Bayes:** This is a pretty popular algorithm used in text classification, so it is only fitting that we try it out first. 
+* **KNN:**
