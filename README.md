@@ -28,3 +28,6 @@ Running this piece of code will pop up a program where you will need to select t
 
   * **Investor-speak:** 'bull' - someone who is positive about the market.
   * **English-speak:** 'bull' - a scary animal you don't want running at you.
+
+* **Stop Words:** Helper words such as articles (a, an, the), prepositions (on, after, before).
+* **Stemming:**  Stem is used to shorten the lookup, and normalize sentences. For example, closes, closing, closed all derive from the same word *close*. Stem is used to replace all the above mentioned word with the parent word, i.e., close.
