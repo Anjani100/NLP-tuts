@@ -36,3 +36,5 @@ Running this piece of code will pop up a program where you will need to select t
 * **Chinking:** Chinking is a lot like chunking, it is basically a way for you to remove a chunk from a chunk. The chunk that you remove from your chunk is your chink.
 * **Named Entity Recognition:** The idea is to have the machine immediately be able to pull out **entities** like people, places, things, locations, monetary figures, and more. Keep *binary = True* to categorize everything as NE, i.e., Named Entity.
 * **Lemmatizing:** It is a similar operation to Stemming, the only difference being that stemming can often create non-existing words whereas lemmas are actual words.
+* **Wordnet:** Wordnet is a lexical database for the English language, which was created by Princeton, and is part of the NLTK corpus. You can use WordNet alongside the NLTK module to find the meanings of words, synonyms, antonyms, and more.
+* **Wu and Palmer Method:** It is an algorithm to determine how similar 2 words are to each other.
