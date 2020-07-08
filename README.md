@@ -49,3 +49,5 @@ For the first Machine Learning algorithm, we're going to go with **Naive-Bayes a
 * **Naive-Bayes:** This is a pretty popular algorithm used in text classification, so it is only fitting that we try it out first. 
 
 As for other algorithms, we are going to use the Scikit-learn library package to import some the pretty famous algorithms such as *Logistic Regression, SVM, SGD, etc.*
+
+After this, we also try out all the algorithms (that performed better) and vote their predictions to get the result.
